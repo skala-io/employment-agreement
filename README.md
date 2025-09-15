@@ -35,7 +35,7 @@ All proposals will be carefully reviewed by our legal team.
 
 ## Resources
 
-- Learn more about this template: [skala.io/fast](https://www.skala.io/fast)  
+- Learn more about this template: [skala.io/employment-agreement](https://www.skala.io/employment-agreement)  
 - Access a growing library of **awesome legal templates** with helpful tips — generate and sign in one place: [skala.io/templates](https://www.skala.io/templates)  
 - License: [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
 
